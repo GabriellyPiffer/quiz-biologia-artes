@@ -33,7 +33,7 @@ O aplicativo contém perguntas com múltiplas alternativas.
 *Artes*
 <img width="1124" height="503" alt="image" src="https://github.com/user-attachments/assets/ba7964fc-958e-41e3-a7e2-bd2af8f0ac92" />
 
-
+melhor visualização das telas https://www.canva.com/design/DAHFI7d8nso/cgsZgzKOCr_V47ZDNCMMtg/edit?utm_content=DAHFI7d8nso&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ---
 
 ##  Professores Avaliadores
