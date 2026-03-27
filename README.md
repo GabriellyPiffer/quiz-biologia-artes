@@ -42,14 +42,14 @@ O aplicativo contém perguntas com múltiplas alternativas.
 ---
 * **Acertos:** <br>
 Edilaine:10/10<br>
-Rodrigo:
+Rodrigo:10/10
 ---
 * **Comentário dos Professores:**<br>
   Edilaine: "Parabéns pelo trabalho realizado. O quiz ficou bem organizado e de fácil compreensão quanto à sua utilização no aplicativo."<br>
-  Rodrigo: ""
+  Rodrigo: "Eu achei super criativo, talvez perguntas que formassem um sistema de pontuação, mas achei ótimo, excelente para trabalhar em sala de aula também."
 ----
 * **Sugestões dos Professores:**<br>
 Edilaine: "Inserir imagens ou situações do cotidiano
 Criar perguntas com interpretação (não só definição)
 Colocar uma explicação da resposta correta (ótimo para aprendizagem!)"<br>
-Rodrigo:""
+Rodrigo:"Como mencionado anteriormente, talvez um sistema de pontuação para estimular, mas achei ótimo!!!!"
