@@ -40,13 +40,13 @@ O aplicativo contém perguntas com múltiplas alternativas.
 
 * **Nome dos professores:** Edilaine Bueno Moraes De Oliveira e Rodrigo De Paiva Lopes
 ---
-* **Acertos:** Edilaine:10/10
+* **Acertos:** Edilaine:10/10<br>
                Rodrigo:
 ---
-* **Comentário dos Professores:** Edilaine: "Parabéns pelo trabalho realizado. O quiz ficou bem organizado e de fácil compreensão quanto à sua utilização no aplicativo."
+* **Comentário dos Professores:** Edilaine: "Parabéns pelo trabalho realizado. O quiz ficou bem organizado e de fácil compreensão quanto à sua utilização no aplicativo."<br>
                                   Rodrigo: ""
 ----
 * **Sugestões dos Professores:** Edilaine: "Inserir imagens ou situações do cotidiano
 Criar perguntas com interpretação (não só definição)
-Colocar uma explicação da resposta correta (ótimo para aprendizagem!)"
+Colocar uma explicação da resposta correta (ótimo para aprendizagem!)"<br>
                                   Rodrigo:""
